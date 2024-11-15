@@ -13,12 +13,14 @@ Proposto pela Oracle Next Education, na formação de Back-end Java, em parceria
 <div align="center">
   <img alt="Menu Inicial" src="./img-readme/menu-inicial.png">
 </div>
+<br>
 
 - Ao escolher a opção "1- buscar livro pelo título", o usuário deverá digitar o nome de um livro ou de um autor para busca, o resultado será exibido e persistido no banco de dados:
 <br>
 <div align="center">
   <img alt="Busca por titulo" src="./img-readme/busca-titulo.png">
 </div>
+<br>
 
 - Com livros e autores já persistidos no banco de dados, o usuário pode optar pelas opções entre 2 e 5, as quais são responsáveis por fazer buscas personalizadas dos registros no banco:
 <br>
