@@ -1,6 +1,12 @@
 # :books: Challenge LiterAlura ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-Challenge Conversor de Moedas implementado com a [API Gutendex](https://gutendex.com).<br>
+Challenge aplicação back-end para busca e persistência de livros implementado com a [API Gutendex](https://gutendex.com).<br>
 Proposto pela Oracle Next Education, na formação de Back-end Java, em parceria com a Alura.
+
+<br>
+<div align="center">
+  <img alt="Badge conclusão do challenge ONE" src="./img-readme/badge-literalura.png">
+</div>
+<br>
 
 ## :wrench: Sobre o projeto
 - Uma aplicação back-end simples e robusta, estruturada utilizando as melhores práticas de programação, arquitetada em layers, a qual separa o código por funcionalidades.
