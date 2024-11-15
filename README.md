@@ -9,15 +9,30 @@ Proposto pela Oracle Next Education, na formação de Back-end Java, em parceria
 
 ## :clipboard: Como funciona?
 - Ao iniciar a aplicação, o menu de interação é exibido, permitindo que o usuário escolha uma das opções, entre 1 e 5, sendo o 0 para finalizar a aplicação (o input do usuário deve ser um número inteiro):
-![Menu Inicial](./img-readme/menu-inicial.png)
+<br>
+<div align="center">
+  <img alt="Menu Inicial" src="./img-readme/menu-inicial.png">
+</div>
 
+<br>
 - Ao escolher a opção "1- buscar livro pelo título", o usuário deverá digitar o nome de um livro ou de um autor para busca, o resultado será exibido e persistido no banco de dados:
-![Busca por titulo](./img-readme/busca-titulo.png)
+<br>
+<div align="center">
+  <img alt="Busca por titulo" src="./img-readme/busca-titulo.png">
+</div>
 
+<br>
 - Com livros e autores já persistidos no banco de dados, o usuário pode optar pelas opções entre 2 e 5, as quais são responsáveis por fazer buscas personalizadas dos registros no banco:
-![Busca livros registrados](./img-readme/busca-livros-registrados.png)
+<br>
+<div align="center">
+  <img alt="Busca livros registrados" src="./img-readme/busca-livros-registrados.png">
+</div>
 
-![Busca autores registrados](./img-readme/busca-autores-registrados.png)
+<br>
+<div align="center">
+  <img alt="Busca autores registrados" src="./img-readme/busca-autores-registrados.png">
+</div>
+<br>
 
 ## :computer: Tecnologias e ferramentas utilizadas
 - Java (JDK 17)
